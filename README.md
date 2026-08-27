@@ -1,7 +1,7 @@
 Welcome! My name is Giovanny!
 =========================
 
-Im a Back-End Dev heading to a fullstack career
+Im a student heading to a IT Analyst career
 -----------------------------------------------
 
 I am a beginner developer currently studying Systems Analysis and Development (ADS). I started my journey in programming recently and have been focusing on building a solid foundation in technology and problem-solving.
