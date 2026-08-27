@@ -18,9 +18,9 @@ Let’s Connect!
 
 I am always open to learning, feedback, and collaboration. If you have suggestions or tips, feel free to reach out!
 
-  I'm based in Brasil.
+  I'm based in Brazil.
 *  You can contact me at [giovanny.fagundes@gmail.com](mailto:giovanny.fagundes@gmail.com)
-*  I'm looking to collaborate on Python, PowerBI and SQL
+*  I'm looking to collaborate on Python, PowerBI and SQL.
 
 <p align="left">
 <a href="https://github.com/microsoft/PowerBI-Icons"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" title="Power BI" width="36" height="36" />
