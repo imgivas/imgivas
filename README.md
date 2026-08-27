@@ -14,26 +14,6 @@ Python (currently improving my logic and coding skills).
 
 I am continuously working on improving my programming logic, understanding how systems work, and practicing through small projects and exercises.
 
-My main goal is to become a professional developer and eventually work remotely. I am especially interested in:
-
-Back-end development;
-
-Automation and scripting;
-
-Learning more about real-world development practices.
-
-I believe consistency is key. Even though I started without much discipline, I am now focused on studying regularly and improving step by step. This GitHub is where I document my progress, share projects, and track my evolution as a developer.
-
-What You’ll Find Here:
-
-Practice exercises;
-
-Beginner projects;
-
-Experiments while learning new concepts;
-
-Code that reflects my learning journey.
-
 Let’s Connect!
 
 I am always open to learning, feedback, and collaboration. If you have suggestions or tips, feel free to reach out!
