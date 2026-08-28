@@ -4,7 +4,7 @@ Welcome! My name is Giovanny!
 Im a student heading to a IT Analyst career
 -----------------------------------------------
 
-I am a beginner developer currently studying Systems Analysis and Development (ADS). I started my journey in programming recently and have been focusing on building a solid foundation in technology and problem-solving.
+I am a developer currently studying for an Associate Degree in Software Development & Systems Analysis. I recently started my career in programming and have been focusing on building a solid foundation in technology and problem-solving.
 
 So far, I have learned the basics of:
 
